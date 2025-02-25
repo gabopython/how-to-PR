@@ -19,8 +19,9 @@ git clonar https://github.com/your-username/project-name.git
 
 Create a Branch: Create a new branch for your changes. This keeps your work separate from the main project and makes it easier to manage:
 
-```
 Bash
+
+```
 github checkout -b your-branch-name
 ```
 
@@ -32,8 +33,12 @@ Commit: Commit your changes with a clear and descriptive message:
 
 Bash
 
-```git add .```
-```git commit -m "Fix: Issue #123 - Add new feature"```
+```
+git add .
+```
+```
+git commit -m "Fix: Issue #123 - Add new feature"
+```
 
 ## 5. Push Your Changes
 
@@ -41,7 +46,9 @@ Push: Push your branch to your forked repository:
 
 Bash
 
-```git push origin your-branch-name```
+```
+gitlab push origin your-branch-name
+```
 
 ## 6. Create a Merge Request
 
