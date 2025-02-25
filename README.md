@@ -1,7 +1,7 @@
 # How to pull request (PR)
 
 
-## 1. Fork the Repository
+## 1. Spoon the Repository
 
 Fork: On the project's page, click the "Fork" button. This creates a copy of the repository under your GitHub account.
 
